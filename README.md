@@ -14,9 +14,9 @@ components of this Project
 Servo Pin that i used in this project 
 
 Motor1 = pin3
-Motor2 = pin3
-Motor3 = pin3
-Motor4 = pin3
+Motor2 = pin5
+Motor3 = pin6
+Motor4 = pin9
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------
