@@ -22,11 +22,23 @@ Motor4 = pin3
 --------------------------------------------------------------------------------------------------------------------------------------------
 Project image 
 
-<img width="1916" height="942" alt="image" src="https://github.com/user-attachments/assets/f5a77526-dda6-4b17-911d-d3418006ab78" />
+<img width="1600" height="787" alt="image (2)" src="https://github.com/user-attachments/assets/1ac9a1bb-4741-48e2-97f5-92d88535b8a8" />
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 Final result viedo: 
 
-https://github.com/user-attachments/assets/d6e92387-603e-466d-b853-fe273bd20384
+https://github.com/user-attachments/assets/3e29f4b7-c867-4c50-8bb0-8cf917e59561
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+Uesd:
+Arduino
+C++
+Tinkercad
+----------------------------------------------------------------------------------------------------------------------------------------------
+Tinkercadlink 
+you see the project using the link:
+
+Project:https://www.tinkercad.com/things/6OZiBO2vcOu-4-servo
+
 
