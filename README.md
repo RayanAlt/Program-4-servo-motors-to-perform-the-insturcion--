@@ -17,3 +17,9 @@ Motor1 = pin3
 Motor2 = pin3
 Motor3 = pin3
 Motor4 = pin3
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+Project image 
+
+<img width="1916" height="942" alt="image" src="https://github.com/user-attachments/assets/f5a77526-dda6-4b17-911d-d3418006ab78" />
